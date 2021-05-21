@@ -79,10 +79,29 @@ margin: 0 5px;
 height: 40px;
 width: 100px;
 border: 1px solid #007bff;
-background: #007bff;
 border-radius: 5px;
 color: #fff;
 font-size: 16px;
 font-weight: 500;
 cursor:pointer;
+transition: all 0.3s ease;
+}
+
+.buttons button.restart{
+color: #fff;
+background: #007bff;
+}
+
+.buttons button.restart:hover{
+    background: #0263ca;
+}
+
+.buttons button.quit{
+    color: #007bff;
+    
+    }
+
+.buttons button.quit:hover{
+    color:#fff;
+    background: #007bff;
 }
