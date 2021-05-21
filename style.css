@@ -34,6 +34,7 @@ background: #007bff;
 }
 
 .info_box{
+    display: none;
     width: 540px;
     background: #fff;
     border-radius: 5px;
