@@ -258,6 +258,10 @@ pointer-events: none;
     border-color: #f5c6cb;
 }
 
+.option_list .option.disabled{
+    pointer-events: none;
+}
+
 .quiz_box footer{
     height: 60px;
     width: 100%;
