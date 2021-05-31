@@ -16,7 +16,7 @@ let questions = [
     {   
         numb: 2,
         question: "What dodes HTML stand for?",
-        answer: "Hyper Text Markup Language",
+        answer: "Colorful Style Sheet",
         options: [
             "Common Style Sheet",
             "Colorful Style Sheet",
@@ -28,7 +28,7 @@ let questions = [
     {   
         numb: 3,
         question: "What dodes PHP stand for?",
-        answer: "Hyper Preprocessor",
+        answer: "Hometext Preprocessor",
         options: [
             "Common Preprocessor",
             "Hypertext Preprogramming",
@@ -40,7 +40,7 @@ let questions = [
     {   
         numb: 4,
         question: "What dodes SQL stand for?",
-        answer: "Structured Query Language",
+        answer: "Stylesheet Query Language",
         options: [
             "Stylish Question Language",
             "Stylesheet Query Language",
@@ -52,7 +52,7 @@ let questions = [
     {   
         numb: 5,
         question: "What dodes XML stand for?",
-        answer: "eXtensible Markup Language",
+        answer: "eXamine Multiple Language",
         options: [
             "eXtensible Markup Language",
             "eXecutable Multiple Language",
